@@ -34,7 +34,7 @@ Hardware: PIC16F877A
 (More projects coming soon...)
 
 📫 Connect With Me
-📧 Email: yogeshkumar.b1604@gmail.com
+📧 Email: vishruthjd34@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/yogesh-b-93b77a2b1
 ⚡ Goal
 To build strong expertise in Embedded Systems and become a skilled software/embedded developer.
