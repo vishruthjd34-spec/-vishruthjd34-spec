@@ -67,10 +67,10 @@ Menu-driven application for managing contacts using structures and file handling
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-vishruthjd34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishruthjd34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishruth-j-d-3b6a822b2/)
 
 - 📧 **Email:** [vishruthjd34@gmail.com](mailto:vishruthjd34@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/vishruth-j-d-3b6a822b2](https://www.linkedin.com/in/your-linkedin-id)
+- 🔗 **LinkedIn:** [linkedin.com/in/vishruth-j-d-3b6a822b2](https://www.linkedin.com/in/vishruth-j-d-3b6a822b2/)
 
 ---
 
